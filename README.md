@@ -1,2 +1,4 @@
 # gitseminar
-experimentation purpose
+experimepurpose
+
+elias ist gemein
